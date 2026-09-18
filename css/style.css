@@ -1,0 +1,23 @@
+:root {
+  --green: hsl(75, 94%, 57%);
+  --white: hsl(0, 0%, 100%);
+  --grey-700: hsl(0, 0%, 20%);
+  --grey-800: hsl(0, 0%, 12%);
+  --grey-900: hsl(0, 0%, 8%);
+}
+* {
+  box-sizing: border-box;
+}
+body,
+html {
+  margin: 0;
+  padding: 0;
+  min-height: 100vb;
+  min-height: 100dvb;
+  font-family: Inter, sans-serif;
+  background-color: var(--grey-900);
+  color: var(--white);
+}
+main {
+  min-height: 100dvb;
+}
