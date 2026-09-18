@@ -59,3 +59,17 @@ main {
   background-color: var(--green);
   color: black;
 }
+
+.name {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.address {
+  color: var(--green);
+  font-size: 14px;
+  font-weight: 600;
+}
+.job {
+  font-size: 14px;
+  font-weight: 400;
+}
