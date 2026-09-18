@@ -35,3 +35,7 @@ main {
   text-align: center;
   border-radius: 10px;
 }
+.img-c img {
+  border-radius: 100%;
+  width: 35%;
+}
