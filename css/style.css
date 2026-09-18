@@ -39,3 +39,23 @@ main {
   border-radius: 100%;
   width: 35%;
 }
+
+.links-c {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.links-c a {
+  background-color: var(--grey-700);
+  color: var(--white);
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration-line: none;
+  cursor: pointer;
+  padding: 12px;
+  font-size: 14px;
+}
+.links-c a:hover {
+  background-color: var(--green);
+  color: black;
+}
