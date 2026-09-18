@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](.assets/preview/Screenshot1.png)
-![](.assets/preview/Screenshot2.png)
+![Screenshot-1](./assets/preview/Screenshot1.png)
+![Screenshot-2](./assets/preview/Screenshot2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/waleed-thabit/social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/waleed-thabit/social-links-profile)
+- Live Site URL: [Live Preview](https://waleed-thabit.github.io/social-links-profile/)
 
 ## My process
 
